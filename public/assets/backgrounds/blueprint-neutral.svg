@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img"><title>blueprint-neutral</title><defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#CBD6CF" stroke-width=".7"/></pattern></defs><rect width="1200" height="720" fill="#F0F3EF"/><rect width="1200" height="720" fill="url(#grid)"/></svg>
