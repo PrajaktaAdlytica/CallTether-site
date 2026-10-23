@@ -844,6 +844,10 @@ export function FinalCTA() {
 export function Home() {
   return (
     <>
+      <aside className="funding-announcement" aria-label="Funding announcement">
+        <strong>CallTether has secured venture capital funding.</strong>
+        <span>Investor and funding amount to be announced.</span>
+      </aside>
       <EntryVideo />
       <Hero />
       <div className="intro-strip">

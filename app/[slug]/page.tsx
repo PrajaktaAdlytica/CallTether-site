@@ -553,6 +553,17 @@ function About() {
         diagram="company-process"
         reverse
       />
+      <section className="section subpage-section">
+        <div className="container">
+          <h2>Company details</h2>
+          <h3>CallTether</h3>
+          <address className="company-address">
+              364 Cong Hoa Street, Ward 13, Tan Binh District<br />
+              Ho Chi Minh City, 790329<br />
+              Vietnam
+            </address>
+        </div>
+      </section>
       <FinalCTA />
     </>
   );

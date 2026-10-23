@@ -3754,3 +3754,27 @@ main {
   .outcome-card { transition: none; }
   .outcome-card:hover { transform: none; }
 }
+
+/* Company information and homepage funding announcement. */
+.company-address {
+  margin-top: 16px;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.8;
+}
+.funding-announcement {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 4px 12px;
+  padding: 14px 24px;
+  background: #18352c;
+  color: #f0f3ef;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.funding-announcement span {
+  color: #c4d6c7;
+}

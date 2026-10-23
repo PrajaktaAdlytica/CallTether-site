@@ -243,6 +243,11 @@ export function Footer() {
               Brighter possibilities.
             </h3>
             <p>Clarity at the point of action.</p>
+            <address className="company-address">
+              364 Cong Hoa Street, Ward 13, Tan Binh District<br />
+              Ho Chi Minh City, 790329<br />
+              Vietnam
+            </address>
             <div className="socials">
               {["linkedin", "x", "github", "youtube"].map((name) => (
                 <button
